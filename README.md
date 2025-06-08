@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🚀 satoshi_wallet_generator
+# satoshi_wallet_generator
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![License](https://img.shields.io/github/license/konglai1720/satoshi_wallet_generator)
@@ -55,8 +55,13 @@ python3 satoshi_kong.py
 ```
 </div>
 
-<div align="center">
-  
+<h1 align="center">🚀 Screenshot – satoshi_wallet_generator</h1>
+
+<p align="center">
+  <img src="./satoshi_wallet_gen .png" width="600" alt="Satoshi Wallet Generator Screenshot"/>
+</p>
+
+
 ## 📢 Disclaimer
 
 Panduan ini dibuat untuk edukasi dan meningkatkan kesadaran keamanan digital. Gunakan pengetahuan ini secara bertanggung jawab.
