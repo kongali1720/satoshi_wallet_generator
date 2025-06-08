@@ -42,7 +42,8 @@ Tool ini cocok untuk:
  ⚡ Bisa dikembangkan untuk multi-coin (ETH, DOGE, LTC, dll)
 
 ---
-
+<div align="center">
+  
 ## 🚀 Cara Instalasi
 
 ```bash
@@ -55,7 +56,7 @@ python3 satoshi_kong.py
 ```
 </div>
 
-<h1 align="center">🚀 Screenshot – satoshi_wallet_generator</h1>
+<h1 align="center">🚀 Screenshot  (satoshi_wallet_generator)</h1>
 
 <p align="center">
   <img src="./satoshi_wallet_gen .png" width="600" alt="Satoshi Wallet Generator Screenshot"/>
